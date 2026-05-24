@@ -1,69 +1,40 @@
-# 🚀 Advanced Prompt Engineering & LLM Architecture Portfolio
+# 🧠 Advanced Prompt Engineering Portfolio
 
-Welcome to my advanced prompt engineering portfolio. This repository showcases production-grade prompt architectures designed to solve complex business, software engineering, and data analytics problems using state-of-the-art Large Language Models (LLMs).
+Welcome to my professional Prompt Engineering portfolio. This repository showcases structured, production-ready system architectures and prompt engineering pipelines designed to maximize the capabilities of Large Language Models (LLMs), optimize algorithmic efficiency, and deploy resilient autonomous workflows.
 
-Rather than relying on basic, single-turn prompts, these case studies demonstrate the implementation of structured behavioral frameworks, cognitive patterns, and strict output controls.
+## 📁 Repository Structure
 
----
+### 1. 📁 Marketing & Strategy Prompts
+* **`enterprise-campaign-orchestration.md`** * *Methodology:* Tree-of-Thought (ToT) Framework & Thought Pruning 🌲
+  * *Objective:* Simulating a multi-expert corporate board (Copywriter, Financial Analyst, and Strategist) to iteratively critique, refine, and vote on a high-converting marketing campaign for a smart consumer product.
 
-## 📂 Repository Structure & Case Studies
+### 2. 📁 Software Engineering Prompts
+* **`automated-code-reviewer-system.md`**
+  * *Methodology:* Interview Pattern & Chain-of-Thought (CoT) Reasoning 🧠
+  * *Objective:* Forcing the LLM to gather dynamic environment and data constraints through active interviewing before executing step-by-step algorithmic analysis to refactor suboptimal $O(n^2)$ legacy code into high-speed structures.
 
-### 1. 📁 [Business Optimization Prompts](./Business-Optimization-Prompts/)
+### 3. 📁 Data Analytics Prompts
+* **`customer-behavior-analysis.md`**
+  * *Methodology:* Persona Pattern, JSON Schema Enforcing & Trend Injection 📊
+  * *Objective:* Generating deterministic, syntactically flawless synthetic datasets for data science pipelines while embedding specific macro consumer trends (e.g., Weekend Purchasing Surges).
 
-- **Project:** Enterprise Campaign Orchestration (`enterprise-campaign-orchestration.md`)
-- **Core Methodology:** Tree of Thoughts (ToT) Framework 🌲
-- **Objective:** Simulating a multi-expert corporate board (Copywriter, Financial Analyst, and Strategist) to iteratively critique, refine, and vote on a high-converting marketing campaign.
+### 4. 📁 Context-Aware-Fitness-Agent
+* **`fitness-agent-prompt.md`**
+  * *Methodology:* Structured Workflow, Negative Constraints & State Management 🏋️‍♂️
+  * *Objective:* Building a production-ready virtual fitness agent that strictly enforces a multi-step user screening process, health-safety validation, and injury screening before delivering highly tailored workout and nutrition plans.
 
-### 2. 📁 [Software Engineering Prompts](./Software-Engineering-Prompts/)
-
-- **Project:** Automated Code Reviewer & Logical Debugger (`automated-code-reviewer-system.md`)
-- **Core Methodology:** Interview Pattern & Chain-of-Thought (CoT) Reasoning 🧠
-- **Objective:** Forcing the LLM to gather environment and data constraints through active interviewing before using step-by-step algorithmic analysis to refactor suboptimal $O(n^2)$ code into high-speed $O(1)$ structures.
-
-### 3. 📁 [Data Analytics Prompts](./Data-Analytics-Prompts/)
-
-- **Project:** Structured Synthetic Data Generation (`customer-behavior-analysis.md`)
-- **Core Methodology:** Persona Pattern, JSON Schema Enforcing & Trend Injection 📊
-- **Objective:** Generating deterministic, syntactically flawless synthetic datasets for data science pipelines while embedding specific macro consumer trends (e.g., Weekend Purchasing Surges).
-
-### 4. 📁 [Context-Aware-Fitness-Agent](./Context-Aware-Fitness-Agent/)
-
-- **Project:** Intelligent Fitness Coaching AI (`fitness-agent-prompt.md`)
-- **Core Methodology:** Structured Workflow, Negative Constraints & State Management 🏋️‍♂️
-- **Objective:** Building a production-ready fitness agent that strictly enforces a 4-step user screening process and injury-safety validation before delivering highly customized workout and nutritional plans.
-
----
-
-## 🛠️ Advanced Prompting Techniques Implemented
-
-> ### 🌲 Tree of Thoughts (ToT)
->
-> - **Applied Context:** Marketing & Strategy 🎯
-> - **Core Benefit:** Explores multiple reasoning paths and self-corrects through multi-agent voting.
+### 5. 📁 AI Automation & Scraping Agents
+* **`hotel-scraper-deterministic-agent.md`**
+  * *Methodology:* Top-Down User-Defined Playoff Tournament 🏆
+  * *Objective:* Optimizing system prompts for web scraping agents by explicitly dictating business critical criteria (JSON rigidity vs network resilience) and matching them in elimination rounds.
+* **`hotel-scraper-adaptive-agent.md`**
+  * *Methodology:* Bottom-Up Discovery & AI-Driven Playoff Framework 🤖
+  * *Objective:* Eliminating engineering blind spots in unfamiliar domains by allowing the LLM to autonomously discover latent bottlenecks (DOM mutation, 429 status codes) and run a self-correcting evaluation matrix.
 
 ---
 
-> ### 🧠 Chain-of-Thought (CoT)
->
-> - **Applied Context:** Algorithmic Optimization ⚡
-> - **Core Benefit:** Unlocks step-by-step logical deduction in LLMs, preventing code hallucinations.
-
----
-
-> ### 💬 Interview Pattern & State Management
->
-> - **Applied Context:** Technical Diagnostics & Dynamic Coaching 🔍
-> - **Core Benefit:** Guarantees the system gathers complete user constraints and tracks dialogue states before generating final solutions.
-
----
-
-> ### 📁 JSON Schema Enforcing
->
-> - **Applied Context:** Synthetic Data Engineering 📊
-> - **Core Benefit:** Restricts LLM output to a strict programmatic blueprint, ensuring $100\%$ valid JSON syntax.
-
----
-
-## 🎯 Professional Impact
-
-This portfolio proves the capability to transition AI from a casual chatbot into a reliable, deterministic enterprise asset that respects syntax boundaries, executes complex reasoning, and optimizes cross-departmental workflows.
+## 🛠️ Core Engineering Skills Demonstrated
+* **Advanced Framework Execution:** Deep practical application of Tree-of-Thought (ToT), Chain-of-Thought (CoT), and State-Tracking Logic.
+* **Multi-Agent Orchestration & Evaluation:** Designing multi-expert panels, tournament brackets (Playoff Method), and self-critique pipelines to filter out fragile AI responses.
+* **Enterprise Constraints Management:** Enforcing strict XML tagging, strict JSON Schema compliance, negative constraints, and data validation boundaries.
+* **Domain Adaptation:** Merging human-in-the-loop oversight with AI-driven discovery to map complex data architectures across different industries.
