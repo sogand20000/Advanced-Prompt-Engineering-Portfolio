@@ -31,10 +31,16 @@ Welcome to my professional Prompt Engineering portfolio. This repository showcas
   * *Methodology:* Bottom-Up Discovery & AI-Driven Playoff Framework 🤖
   * *Objective:* Eliminating engineering blind spots in unfamiliar domains by allowing the LLM to autonomously discover latent bottlenecks (DOM mutation, 429 status codes) and run a self-correcting evaluation matrix.
 
+### 6. 📁 Generative Brand Systems
+* **`hybrid-playoff-brand-identity.md`**
+  * *Methodology:* Hybrid AI-in-the-Loop ($AI^2L$) Playoff Framework & 5-Layer Image Engineering 🎨
+  * *Objective:* Overcoming domain-specific visual bottlenecks and removing human subjective bias in generative workflows by combining structural 5-layer prompt syntax with a human-vetted, AI-executed tournament elimination engine to output production-grade B2B enterprise brand assets.
+  * *Documentation:* [English Edition](./hybrid-playoff-brand-identity.md) | [Persian Edition (نسخه فارسی)](./hybrid-playoff-brand-identity-fa.md)
+
 ---
 
 ## 🛠️ Core Engineering Skills Demonstrated
-* **Advanced Framework Execution:** Deep practical application of Tree-of-Thought (ToT), Chain-of-Thought (CoT), and State-Tracking Logic.
+* **Advanced Framework Execution:** Deep practical application of Tree-of-Thought (ToT), Chain-of-Thought (CoT), 5-Layer Prompt Component Separation, and State-Tracking Logic.
 * **Multi-Agent Orchestration & Evaluation:** Designing multi-expert panels, tournament brackets (Playoff Method), and self-critique pipelines to filter out fragile AI responses.
 * **Enterprise Constraints Management:** Enforcing strict XML tagging, strict JSON Schema compliance, negative constraints, and data validation boundaries.
-* **Domain Adaptation:** Merging human-in-the-loop oversight with AI-driven discovery to map complex data architectures across different industries.
+* **Domain Adaptation:** Merging human-in-the-loop oversight with AI-driven discovery to map complex data architectures and brand requirements across different industries.
