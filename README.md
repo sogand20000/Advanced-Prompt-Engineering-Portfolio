@@ -18,10 +18,12 @@ Welcome to my professional Prompt Engineering portfolio. This repository showcas
   * *Methodology:* Persona Pattern, JSON Schema Enforcing & Trend Injection 📊
   * *Objective:* Generating deterministic, syntactically flawless synthetic datasets for data science pipelines while embedding specific macro consumer trends (e.g., Weekend Purchasing Surges).
 
-### 4. 📁 Context-Aware-Fitness-Agent
-* **`fitness-agent-prompt.md`**
-  * *Methodology:* Structured Workflow, Negative Constraints & State Management 🏋️‍♂️
-  * *Objective:* Building a production-ready virtual fitness agent that strictly enforces a multi-step user screening process, health-safety validation, and injury screening before delivering highly tailored workout and nutrition plans.
+### 🏋️‍♂️ 4. Production-Grade Fitness Agent via Enforced State Management
+* **Core Concept:** Upgraded a standard conversational assistant into a resilient, deterministic **State Machine** using advanced prompt engineering.
+* **Methodologies Used:** Enforced JSON State Matrix, XML Tag Posture, and Conditional Negative Constraints.
+* **The Solution:** Prevents the LLM from rushing to generate workout or nutrition plans before satisfying crucial data-gathering and safety phases. The Agent is forced to output its internal state tracking mechanism in valid JSON at every turn, embedding a strict injury-screening protocol (e.g., auto-detecting waist/joint issues) to enforce safety-first routines in enterprise pipelines.
+* **Tech Stack/Focus:** Prompt Engineering Architecture, JSON Schema Validation, Onboarding UX Guardrails.
+* **📂 Project Link:** [View Case Study & Prompt Blueprint](./fitness-agent-prompt.md)
 
 ### 5. 📁 AI Automation & Scraping Agents
 * **`hotel-scraper-deterministic-agent.md`**
